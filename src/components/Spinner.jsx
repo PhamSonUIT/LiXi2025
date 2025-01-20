@@ -37,8 +37,6 @@ function Spinner() {
       <div className="lixi">
         <div className="day_treo_li_xi"></div>
         <img src="/img/baolixi.png" alt="" />
-        <img src="/img/baolixi.png" alt="" />
-        <img src="/img/baolixi.png" alt="" />
       </div>
 
       <div className="body">
